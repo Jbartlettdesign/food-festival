@@ -1,0 +1,25 @@
+{
+  "name": "foodfestival",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "webpack": "webpack --watch",
+    "build": "webpack"
+},
+
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jbartlettdesign/food-festival.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jbartlettdesign/food-festival/issues"
+  },
+  "homepage": "https://github.com/Jbartlettdesign/food-festival#readme",
+  "devDependencies": {
+    "webpack": "^5.44.0",
+    "webpack-cli": "^4.7.2"
+  }
+}
